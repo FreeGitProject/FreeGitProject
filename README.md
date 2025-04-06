@@ -49,15 +49,6 @@ Tech: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Stripe`
 
 ---
 
-### 🤝 Let’s Connect
-
-- 📫 Email: [your email here]  
-- 💼 Portfolio: [your portfolio link]  
-- 🔗 LinkedIn: [your LinkedIn]  
-- 💻 GitHub: [FreeGitProject](https://github.com/FreeGitProject)
-
----
-
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 <!---
