@@ -1,7 +1,7 @@
-# 💻 Hello, I'm [Your Name]  
+# 💻 Hello, I'm Avinash  
 **🚀 .NET Backend Developer | Clean Architecture Expert | E-Commerce Specialist**  
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?logo=linkedin)](your-link)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/avinash-gupta380/)
 [![Email](https://img.shields.io/badge/-Contact-red?logo=gmail)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/-Visit-green?logo=vercel)](your-portfolio)  
 [![Years Experience](https://img.shields.io/badge/2.5%2B_Years-Experience-9cf)]()
