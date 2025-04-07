@@ -6,7 +6,7 @@
 [![Years Experience](https://img.shields.io/badge/2.5%2B_Years-Experience-9cf)]()
 ---
 💻 **.NET Backend Developer | Clean Architecture Enthusiast | Full-Stack Explorer**  
-🏆 _Rising Star of the Year • Star Rookie of the Year_
+🏆 _Star Rookie of the Year_
 
 ---
 
