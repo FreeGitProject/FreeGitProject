@@ -44,8 +44,9 @@ Tech: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Stripe`
 ---
 
 ### 📜 Education
+- 🎓 **MCA** – 2020 
 - 🎓 **BCA** – 2017  
-- 🎓 **MCA** – 2020  
+ 
 
 ---
 
