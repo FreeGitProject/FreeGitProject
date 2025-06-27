@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate backend developer with **2.8+ years of experience** building robust, scalable applications using **.NET Core**, **Dapper**, **CQRS**, **MediatR**, and **Clean Architecture**.  
+I'm a passionate backend developer with **3+ years of experience** building robust, scalable applications using **.NET Core**, **Dapper**, **CQRS**, **MediatR**, and **Clean Architecture**.  
 
 I've worked on both **product-based** and **service-based** solutions — most notably contributing to a **PIM (Product Information Management)** and **OMS (Order Management System)** for an e-commerce platform at **XYZ Company**.
 
