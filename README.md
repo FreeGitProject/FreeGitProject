@@ -22,7 +22,7 @@ In my free time, I love crafting full-stack side projects from scratch — from 
 
 ### 🛠 Tech Stack
 
-- **Languages & Frameworks:** C#, .NET Core, Node.js, React.js, Next.js, AngularJS  
+- **Languages & Frameworks:** C#, .NET Core,MVC, Node.js, React.js, Next.js, AngularJS  
 - **Architecture:** Clean Architecture, CQRS, MediatR, Microservices  
 - **Databases:** SQL Server (stored procedures, views, functions), MongoDB  
 - **Tools & DevOps:** Docker, Elasticsearch, xUnit, MSTest, Moq  
